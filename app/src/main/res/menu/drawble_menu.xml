@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Change Language">
+        <menu>
+            <item android:id="@+id/english" android:title="English"/>
+            <item android:id="@+id/sinhala" android:title="සිංහල"/>
+
+        </menu>
+    </item>
+    <item android:title="LogOut"
+        android:id="@+id/logout"
+        android:icon="@drawable/baseline_logout_24"/>
+
+</menu>

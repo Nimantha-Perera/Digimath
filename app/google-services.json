@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167002786370",
+    "project_id": "digimath-79945",
+    "storage_bucket": "digimath-79945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167002786370:android:a686dff8d180f038a03bdb",
+        "android_client_info": {
+          "package_name": "com.perera.digimath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167002786370-b6ekgdgl2qfmvmi82d71mf2ufd9j9jmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5zMoTzkx1GLyRHm7cC2tlJt6kG1PxaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167002786370-b6ekgdgl2qfmvmi82d71mf2ufd9j9jmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

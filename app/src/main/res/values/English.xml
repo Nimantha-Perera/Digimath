@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="squire_amp_cube"><![CDATA[Squire & Cube]]></string>
+    <string name="rectangle">Rectangle</string>
+    <string name="cylinder">Cylinder</string>
+    <string name="triangle_pyramid">Triangle/Pyramid</string>
+</resources>
